@@ -1,5 +1,5 @@
 {
-  "name": "inductionservice",
+  "name": "hackhathonService",
   "version": "1.0.0",
   "description": "",
   "bundle": "rollup -c",

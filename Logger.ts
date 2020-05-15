@@ -12,7 +12,7 @@ const options = {
 const logger = winston.createLogger({
     transports: [
         new winston.transports.Console(),
-        new winston.transports.File({ filename: 'Inductin.log' }),
+        new winston.transports.File({ filename: 'hachathan.log' }),
     ],
     exitOnError: false,
 });

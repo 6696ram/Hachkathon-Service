@@ -21,10 +21,13 @@ export class SampleController extends BaseController {
         try {
         // get the path of the file
         const pdfFile = req.file;
-        let lang = 'kn';
+        console.log(req.query);
+        let lang = 'en';
         if (req.query && req.query.language) {
              lang = req.query.language;
         }
+
+        if(pdfFile.mimetype === 'application/json') {}
 
         // const pdfText = await this.getTextFromPdf(pdfFile, 10);
         const text = await new Promise(async (resolve, reject) => {

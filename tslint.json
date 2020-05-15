@@ -1,13 +1,24 @@
 {
-  "defaultSeverity": "error",
-  "extends": ["tslint:recommended"],
+  "extends": ["tslint-clean-code", "tslint:recommended"],
+  "rulesDirectory": [
+    "node_modules/tslint-clean-code/dist/src/"
+  ],
   "rules": {
-    "no-console": false,
-    "object-literal-sort-keys": false,
     "no-commented-out-code": true,
-    "quotemark": [true, "single", "jsx-double", "avoid-escape"],
-    "max-line-length": [true, { "limit": 400 }]
+    "object-literal-sort-keys": false,
+    "quotemark": [
+      true,
+      "single",
+      "jsx-double",
+      "avoid-escape"
+    ],
+    "trailing-comma": [
+      true,
+      {
+        "multiline": "always",
+        "singleline": "never"
+      }
+    ]
   },
-  "jsRules": true,
-  "rulesDirectory": []
+  "jsRules": true
 }

@@ -3,10 +3,19 @@
     "module": "commonjs",
     "esModuleInterop": true,
     "target": "es6",
+    "noImplicitAny": false,
     "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "resolveJsonModule": true,
     "sourceMap": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "baseUrl": "./",
+    "paths": {
+      "*": ["./node_modules/*"],
+      "@app/*": ["./app/*"]
+    }
   },
-  "lib": ["es2015"]
+  "include": ["*", "app/**/*"],
+  "exclude": ["app/locales"]
 }

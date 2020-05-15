@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "mecopro",
+    "private_key_id": "24df7262d03ac27f116e723707ae3480ae7da406",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZZfbMq8hW0YSH\nSzm2wRE0wQwswG9VuD6xvKpm1E3+VyS+qjG3eQvQPj9SukBjC35sfpmc2++cSspL\nxoPB7DSBqS+o4KXt2yds9CrYcTsyzQt3lu9ra7tHxxSaCeFPuzYK7xSV5aNufiUO\nXqZ9YLJZjNtd0hHNRucgxjVOnSOdW9pQM5FlqwyKOUaOGBpts9ExD4F9eoservjc\nPVJon9CVIMMeJL68F0LYK5P2/k/txEOe6K4mIMj38amdt4MOM9HB5GCiSSlf/a/j\nM7DkyHQOTWKGy6iTUATeDa9+JuQBJdes7snrphuiqeFu15o1ih50K2j2MDCeJsLe\nlkRItYCNAgMBAAECggEAQP3E01Fit3ncaw/xm17wQcgatukvIoPFuDslfRytELnu\nHQPxvXjBCxEcdhnoRq5reV8oCR/bxH2hePpZ/3Lqihba1POdCYoFCbHnZz2OJcde\n+OOPe5Uwy0frEBpohgXc70P9Fkctd5Zlb9GlO1CZL7ywgm8K0MyeBzJDCpQkLzo/\n9z/+jmShOf/Va9qkvHmylN/wydcojG2jOSiaTjTi7wkPfB+sxpeSGLXJxlq3wnth\nyZKarEaTmV1d2ZDrTkW1uuwGVtV0ahsn2q7fcrXykkvO1BJTMmIVQ0GR+ACILijT\nRG+LqFBguEQedmOE0BnKj1xBHtuc5WIgu1DVZjTKxwKBgQDHz1tQbIkGL5WD0N63\nV1i3v19drclZmImH89jSjyxP0dukO5iQysokByrzvE7c0KXgaqt1fMwwXEMBofMS\nRVyGYA0SQUBHw/mi2xby80WtlrYOMJ/PNaHnkMt25FqeyCuGO8Uy8f+ZjaF9oRVb\nX8xbw1OPs6WltbPn5/Li+audJwKBgQDEiVrcyuAwrRUDHBOHq5BuM1WwJtG4w1TU\nQcsdkGkdmut7Q9xJP76Grci6Cw+S2wCreATi7ZwM386n62eIzggUqWu39KPbt6t3\nzWrTzqgUkej1u+L+ANbfpEH5hfKkK5rBlFGuUiVTTMNTx55cP9muV2d1zjap5UWw\n/IibzZPtKwKBgCuhrRf/y2AtbeHN74Rrr3TYdlO3iltlQssMRZGdMBjyA5t2ZBdi\nIQgDBK8atMHlUgOSZ4SNTu1UiFFH8xNPUCgLu278DrRdKBsW6oj89H82hOTOW2dd\nF9DAPp3kuaEoptB2Jta8H4uBcP1E+qvsXGzBV3Lu0MJBzlpavSAxUvdLAoGANPvi\npwt6jSTcOU5kZXr3IP5t52NPvsPKJr7mBz5bWEPfoAeXZ5frwVswdhdtR2YLNC7T\nAmqUW1Qq3lI0Q0loHEngZGNrmVxWuaGDXz6jSYhciYLxmxCW3QvnTWGzHFc1DWLy\n8k/rCB31uqxiIPSFtt6RYc0KJ5tLwn8SRQ6TBqkCgYA693Oq54TC9p2S5McihiY7\ntKoDhfkrcaqmbfOMZd06OfmbCpMKrjGLU7vvu8z6xXx/sTGCvuAzp1fKJ/5iQsRD\n5/hLYBl/BwANjjEdOcV+jj2RWVo0LSJ5JvbYMW8lWNBv0tJoy8pB0zQqYVTrpwWc\nvvOi6xd8koZRgcTFaV7Ydw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "mecopro@mecopro.iam.gserviceaccount.com",
+    "client_id": "115351261421482316322",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mecopro%40mecopro.iam.gserviceaccount.com"
+  }

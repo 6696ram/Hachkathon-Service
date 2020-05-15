@@ -1,0 +1,386 @@
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"level":"info","message":"server is listening on 3000"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"name\":\"Service Error\",\"code\":\"invalid\"}ObjService Error: invalid something","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"statusCode\":302}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"statusCode\":302}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"statusCode\":406}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"statusCode\":406,\"message\":\"Not Acceptable\"}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"status\":406,\"error\":\"Not Acceptable\"}ObjNot Acceptable","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"status\":406,\"error\":\"Not Acceptable\"}ObjNot Acceptable","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"status\":406,\"error\":\"Not Acceptable\"}ObjNot Acceptable","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:undefinedError{\"status\":406,\"error\":\"Not Acceptable\"}ObjNot Acceptable","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-bf60b5bf-c406-4bac-aab6-57533812894dError{\"status\":406,\"error\":\"Not Acceptable\"}ObjNot Acceptable","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-0530a5f6-fa5d-4fd6-9d83-d071e00313d8Error{\"status\":406,\"error\":\"Not Acceptable\"}ObjNot Acceptable","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-a5f4da90-6e1d-4d7a-bf05-74c859cd7107Error\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-ce7d06c0-82fe-496d-a38d-a45adb35c637Error\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-cca38e73-570f-4f90-825b-144735b5d19fError\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-b5bf8bd6-791d-4886-b204-2da87e9a6768Error\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-b0f457f0-f900-48cd-9005-8fc774349657Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-9dd4fa85-5e39-4e2a-a421-77a68f316b3aError{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-3d2beca7-21db-4585-825d-01f9383e1b42Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-727bdb20-9078-4b93-a331-e0ab3f88aadcError\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-ab763378-1063-4e33-b804-db348454c700Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-02430050-5898-40d7-a412-1260f57bb8b5Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-4ddae18f-5d1f-439f-a54d-773e8366818bError{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-4d9e19fa-d5a8-49ef-8bbc-8b8e128d9873Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-f4485332-22fd-4e18-9346-2a5aadcdcf97Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-df3b4e71-44c1-47b1-a9d8-163d0409e9c0Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-a056f20f-999d-485d-a47e-6a758515ad43Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-46f5df37-77c3-4f81-9d4e-c725878555e5Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-0f89bb8d-adc5-4750-95df-be823f08998bError{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-043716b7-b400-485d-8d42-526aefba9417Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"Error traceId:PLM-CS-adb91cfb-8d71-4424-8e28-7ddf169abb2cError{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"Error traceId:PLM-CS-80118454-6ff0-438a-8b5b-2bc20fad2e7eError{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-e5723fad-9c7e-4dda-ae18-327831ad58d4Error{\"code\":\"404.27.001\",\"message\":\"Page Not Found\",\"info\":\"https://developer.tesco.com/errors/404.27.001\",\"errors\":[\"No route Configured\"]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-62228c91-f1ef-4c01-a652-8ecc60f76725Error{}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-35784c95-d2e3-4e5c-85a1-b04370aad048Error{}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-16b7c986-347c-4c19-927d-470dc30b8e2cError{}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-63a2b67f-9fe5-4def-b870-82a68c112e8eError{}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-162b6991-21ab-46be-8676-2771c4730f0aError\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"PLM-CS-363e84a5-8d22-4ace-a1ac-5cfd7112a319 : Induction of type newSomething created succesfully","level":"info"}
+{"message":"PLM-CS-9a1752a0-7834-483c-86bd-3b0bead33d37 : Induction of type newCase created succesfully","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-24ca4d0f-4110-483c-ada7-f242f155a10bError{\"error\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"status\":422}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-6cbb9722-1cd8-4557-94bb-f7a5495398f3Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-c11b7989-9b62-407f-a76f-494e4e05bef3Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-7f744afc-d0be-4d54-9d7f-554a78aea1e0Error{\"error\":[{\"statusCode\":422,\"message\":\"Invalid user input\",\"errors\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}],\"warnings\":[]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-9046e288-2300-4508-b5e1-45cf714ee871Error{\"status\":422,\"error\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-f06206a3-1b9c-485b-afdc-9f7929107108Error{\"status\":422,\"error\":[{\"message\":\"tradedUnitIdentifiers\",\"details\":[{\"payload\":[{\"tradedUnitAttributes\":[{\"attributeGroupName\":\"tradedUnitIdentifiers\",\"attributes\":[{\"attributeName\":\"isOwnLabel\",\"message\":\"Invalid Own Label Type, Please enter valid Own label type.\",\"values\":[{\"lang\":\"en\"}]}]}]}]}]}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-f1341975-4b5b-42fb-9c2f-5aada2162e54Error{\"statusCode\":422,\"message\":\"Invalid user input.\",\"errors\":[{\"code\":\"inductionMissing\",\"message\":\"Unable to retrieve induction(s) corresponding to provided input. Unable to retrieve parent induction.\",\"details\":{\"parameters\":[],\"payload\":[]}}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-4422d28f-cf05-4621-b1c3-06085065e4d3Error{\"statusCode\":422,\"message\":\"Invalid user input.\",\"errors\":[{\"code\":\"inductionMissing\",\"message\":\"Unable to retrieve induction(s) corresponding to provided input. Unable to retrieve parent induction.\",\"details\":{\"parameters\":[],\"payload\":[]}}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-f8f1a7c9-b03a-4c46-b1e0-41e2a1726b9aError{\"statusCode\":422,\"message\":\"Invalid user input.\",\"errors\":[{\"code\":\"inductionMissing\",\"message\":\"Unable to retrieve induction(s) corresponding to provided input. Unable to retrieve parent induction.\",\"details\":{\"parameters\":[],\"payload\":[]}}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"Error traceId:PLM-CS-378320e6-1808-4677-9a4f-6d224b4c5168Error{\"status\":422,\"error\":[{\"code\":\"inductionMissing\",\"message\":\"Unable to retrieve induction(s) corresponding to provided input. Unable to retrieve parent induction.\",\"details\":{\"parameters\":[],\"payload\":[]}}]}Obj[object Object]","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"PLM-CS-a43785c6-4732-4b37-b5e3-a5d7c09dbe4f : Error in creating case in Tus : [object Object]","level":"error"}
+{"message":"Error traceId:PLM-CS-a43785c6-4732-4b37-b5e3-a5d7c09dbe4fError{\"status\":\"500\",\"error\":\"TradedUnit OCC is not available to be allocated.\"}ObjTradedUnit OCC is not available to be allocated.","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"{traceId} : server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-6226027a-30c8-41aa-87cd-a01dfd4bd0c0 : Error in generating Induction Id : \"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"","level":"error"}
+{"message":"Error traceId:PLM-CS-6226027a-30c8-41aa-87cd-a01dfd4bd0c0Error\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-2f47efa1-a232-421b-899d-be2637611f75 : Successfully created the case in TUS : {\"tradedUnitIdentifiers\":[{\"tradedUnitNumber\":\"811127167\",\"countryCode\":\"GB\",\"occNumber\":\"05059316873858\",\"occStatus\":\"notScanned\",\"occType\":\"Tesco OCC\",\"partnerUuid\":\"trn:tesco:tradingpartner:uuid:37d42322-2f29-4fd6-ba8b-331a18911fb1\",\"achievedStatus\":null,\"migrated\":false,\"isMigrated\":false}],\"supplierReferences\":[{\"supplierId\":\"63381\",\"supplierName\":\"UNILEVER IRELAND LTD (ROI(EUR\",\"supplierProductId\":null}],\"productIdentifier\":{\"productUUID\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"gtinUUID\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"gtinNumber\":\"5057967937554\",\"brickNumber\":\"50211500\",\"classNumber\":\"50211500\"},\"tradeUnitAttributes\":[{\"attributeGroup\":\"orderInfo\",\"attributes\":[{\"name\":\"orderType\",\"values\":[{\"value\":\"Fixed\",\"lang\":\"*\"}]},{\"name\":\"isPreferredTradedUnit\",\"values\":[{\"value\":\"false\",\"lang\":\"*\"}]}]},{\"attributeGroup\":\"caseContent\",\"attributes\":[{\"name\":\"isCaseQtyOne\",\"values\":[{\"value\":\"true\",\"lang\":\"*\"}]}]}],\"versionId\":\"1576676095634\",\"packType\":\"simple\",\"migrated\":false,\"uuid\":\"trn:tesco:tradedunit:031ada85-b2b2-3481-b906-62fc6e1d7e5a\",\"inductionId\":\"trn:tesco:induction:uuid:d76ec22d-eeed-4d53-895c-7ef30fa7c125\",\"isOwnLabel\":\"true\",\"inductionType\":\"newCase\",\"isMigrated\":false}","level":"info"}
+{"message":"[object Object] : Error in posting to EPS : {\"status\":422,\"error\":[{\"code\":\"inductionMissing\",\"message\":\"Unable to retrieve induction(s) corresponding to provided input. Unable to retrieve parent induction.\",\"details\":{\"parameters\":[],\"payload\":[]}}]}","level":"error"}
+{"message":"Error traceId:PLM-CS-2f47efa1-a232-421b-899d-be2637611f75Error{\"status\":422,\"error\":[{\"code\":\"inductionMissing\",\"message\":\"Unable to retrieve induction(s) corresponding to provided input. Unable to retrieve parent induction.\",\"details\":{\"parameters\":[],\"payload\":[]}}]}Obj[object Object]","level":"error"}
+{"message":"PLM-CS-941c01b0-0346-43e1-9ec1-8cd197edba19 : Successfully created the case in TUS : {\"tradedUnitIdentifiers\":[{\"tradedUnitNumber\":\"039074141\",\"countryCode\":\"GB\",\"occNumber\":\"05059316874275\",\"occStatus\":\"notScanned\",\"occType\":\"Tesco OCC\",\"partnerUuid\":\"trn:tesco:tradingpartner:uuid:37d42322-2f29-4fd6-ba8b-331a18911fb1\",\"achievedStatus\":null,\"migrated\":false,\"isMigrated\":false}],\"supplierReferences\":[{\"supplierId\":\"63381\",\"supplierName\":\"UNILEVER IRELAND LTD (ROI(EUR\",\"supplierProductId\":null}],\"productIdentifier\":{\"productUUID\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"gtinUUID\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"gtinNumber\":\"5057967937554\",\"brickNumber\":\"50211500\",\"classNumber\":\"50211500\"},\"tradeUnitAttributes\":[{\"attributeGroup\":\"orderInfo\",\"attributes\":[{\"name\":\"orderType\",\"values\":[{\"value\":\"Fixed\",\"lang\":\"*\"}]},{\"name\":\"isPreferredTradedUnit\",\"values\":[{\"value\":\"false\",\"lang\":\"*\"}]}]},{\"attributeGroup\":\"caseContent\",\"attributes\":[{\"name\":\"isCaseQtyOne\",\"values\":[{\"value\":\"true\",\"lang\":\"*\"}]}]}],\"versionId\":\"1576676303715\",\"packType\":\"simple\",\"migrated\":false,\"uuid\":\"trn:tesco:tradedunit:e8cd7137-5ae6-3791-ad83-d471a592f96a\",\"inductionId\":\"trn:tesco:induction:uuid:f79e7c16-08a8-4bac-b972-e71f136b8820\",\"isOwnLabel\":\"true\",\"inductionType\":\"newCase\",\"isMigrated\":false}","level":"info"}
+{"message":"PLM-CS-941c01b0-0346-43e1-9ec1-8cd197edba19 : Induction successfully posted to EPS : {\"status\":{\"pack\":{\"artworkUploaded\":0,\"awaitingBarcode\":1,\"buyerComplete\":0,\"dataOperatorComplete\":0,\"isRejected\":0,\"status\":\"draft\",\"supplierComplete\":0},\"overall\":{\"artworkUploaded\":0,\"awaitingBarcode\":1,\"buyerComplete\":0,\"dataOperatorComplete\":0,\"isRejected\":0,\"status\":\"draft\",\"storeReady\":0,\"supplierComplete\":0},\"criticalPathStatus\":\"onTrack\",\"criticalPathStatusRank\":40},\"updatedBy\":{\"role\":\"supplier\",\"userId\":\"trn:tesco:uid:uuid:2ffd9537-f614-4b3f-953a-84b5f8b73121\"},\"active\":true,\"oldTargetMarkets\":[],\"autoDeleteDate\":null,\"_id\":\"5dfa2bce539de1001cb30858\",\"inductionId\":\"trn:tesco:induction:uuid:f79e7c16-08a8-4bac-b972-e71f136b8820\",\"users\":[{\"category\":[],\"userId\":\"trn:tesco:uid:uuid:2ffd9537-f614-4b3f-953a-84b5f8b73121\",\"role\":\"supplier\"},{\"category\":[],\"userId\":\"trn:tesco:uid:uuid:6ef44dff-b077-48a3-9478-0401fb6706c7\",\"role\":\"buyer\"}],\"createdAt\":\"2019-12-18T13:38:22.168Z\",\"updatedAt\":\"2019-12-18T13:38:24.522Z\",\"__v\":1,\"brand\":\"TESCO BASICS\",\"description\":\"Testing_testing\",\"gtin\":\"5057967937554\",\"inductionType\":\"newCase\",\"isOwnLabel\":true,\"occ\":\"05059316874275\",\"packId\":\"trn:tesco:tradedunit:e8cd7137-5ae6-3791-ad83-d471a592f96a\",\"productId\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"subgroup\":\"F51CN\",\"targetMarket\":\"GB\",\"tpnb\":null,\"tpnd\":\"039074141\",\"tpsId\":\"trn:tesco:tradingpartner:uuid:37d42322-2f29-4fd6-ba8b-331a18911fb1\"}","level":"info"}
+{"message":"PLM-CS-941c01b0-0346-43e1-9ec1-8cd197edba19 : Induction of type newCase created succesfully","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-2c006552-82bd-43cb-9419-d654946a155a : Successfully created the case in TUS : {\"tradedUnitIdentifiers\":[{\"tradedUnitNumber\":\"811126728\",\"countryCode\":\"GB\",\"occNumber\":\"05059316874152\",\"occStatus\":\"notScanned\",\"occType\":\"Tesco OCC\",\"partnerUuid\":\"trn:tesco:tradingpartner:uuid:37d42322-2f29-4fd6-ba8b-331a18911fb1\",\"achievedStatus\":null,\"migrated\":false,\"isMigrated\":false}],\"supplierReferences\":[{\"supplierId\":\"63381\",\"supplierName\":\"UNILEVER IRELAND LTD (ROI(EUR\",\"supplierProductId\":null}],\"productIdentifier\":{\"productUUID\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"gtinUUID\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"gtinNumber\":\"5057967937554\",\"brickNumber\":\"50211500\",\"classNumber\":\"50211500\"},\"tradeUnitAttributes\":[{\"attributeGroup\":\"orderInfo\",\"attributes\":[{\"name\":\"orderType\",\"values\":[{\"value\":\"Fixed\",\"lang\":\"*\"}]},{\"name\":\"isPreferredTradedUnit\",\"values\":[{\"value\":\"false\",\"lang\":\"*\"}]}]},{\"attributeGroup\":\"caseContent\",\"attributes\":[{\"name\":\"isCaseQtyOne\",\"values\":[{\"value\":\"true\",\"lang\":\"*\"}]}]}],\"versionId\":\"1576676448273\",\"packType\":\"simple\",\"migrated\":false,\"uuid\":\"trn:tesco:tradedunit:94ecc19d-7831-3dc7-b688-edadf08ed54e\",\"inductionId\":\"trn:tesco:induction:uuid:97f64048-50c4-4e58-9c8b-88b1e2bc543b\",\"isOwnLabel\":\"true\",\"inductionType\":\"newCase\",\"isMigrated\":false}","level":"info"}
+{"message":"PLM-CS-2c006552-82bd-43cb-9419-d654946a155a : Induction successfully posted to EPS : {\"status\":{\"pack\":{\"artworkUploaded\":0,\"awaitingBarcode\":1,\"buyerComplete\":0,\"dataOperatorComplete\":0,\"isRejected\":0,\"status\":\"draft\",\"supplierComplete\":0},\"overall\":{\"artworkUploaded\":0,\"awaitingBarcode\":1,\"buyerComplete\":0,\"dataOperatorComplete\":0,\"isRejected\":0,\"status\":\"draft\",\"storeReady\":0,\"supplierComplete\":0},\"criticalPathStatus\":\"onTrack\",\"criticalPathStatusRank\":40},\"updatedBy\":{\"role\":\"supplier\",\"userId\":\"trn:tesco:uid:uuid:2ffd9537-f614-4b3f-953a-84b5f8b73121\"},\"active\":true,\"oldTargetMarkets\":[],\"autoDeleteDate\":null,\"_id\":\"5dfa2c5e539de1001cb3085b\",\"inductionId\":\"trn:tesco:induction:uuid:97f64048-50c4-4e58-9c8b-88b1e2bc543b\",\"users\":[{\"category\":[],\"userId\":\"trn:tesco:uid:uuid:2ffd9537-f614-4b3f-953a-84b5f8b73121\",\"role\":\"supplier\"},{\"category\":[],\"userId\":\"trn:tesco:uid:uuid:6ef44dff-b077-48a3-9478-0401fb6706c7\",\"role\":\"buyer\"}],\"createdAt\":\"2019-12-18T13:40:46.309Z\",\"updatedAt\":\"2019-12-18T13:40:49.015Z\",\"__v\":1,\"brand\":\"TESCO BASICS\",\"description\":\"Testing_testing\",\"gtin\":\"5057967937554\",\"inductionType\":\"newCase\",\"isOwnLabel\":true,\"occ\":\"05059316874152\",\"packId\":\"trn:tesco:tradedunit:94ecc19d-7831-3dc7-b688-edadf08ed54e\",\"productId\":\"trn:tesco:product:uuid:9c84da41-e423-4f1d-831d-a62cb63748d3\",\"subgroup\":\"F51CN\",\"targetMarket\":\"GB\",\"tpnb\":null,\"tpnd\":\"811126728\",\"tpsId\":\"trn:tesco:tradingpartner:uuid:37d42322-2f29-4fd6-ba8b-331a18911fb1\"}","level":"info"}
+{"message":"PLM-CS-2c006552-82bd-43cb-9419-d654946a155a : Induction of type newCase created succesfully","level":"info"}
+{"message":"PLM-CS-6b8a93ad-c9dd-4e0a-97e1-f8e8bee31cdb : Error in creating Supplier in Tus : {\"status\":\"404\",\"error\":\"OCC does not exist. Please enter valid OCC.\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-6b8a93ad-c9dd-4e0a-97e1-f8e8bee31cdbError{\"status\":\"404\",\"error\":\"OCC does not exist. Please enter valid OCC.\"}ObjOCC does not exist. Please enter valid OCC.","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-7aa93554-cc04-4923-bb18-2c0791c39403 : Error in creating Supplier in Tus : {\"status\":\"404\",\"error\":\"OCC does not exist. Please enter valid OCC.\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-7aa93554-cc04-4923-bb18-2c0791c39403Error{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:a4262bcb-f7d6-450f-9555-14c5ab01c7e1\",\"details\":[{\"status\":\"404\",\"error\":\"OCC does not exist. Please enter valid OCC.\"}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-4980e727-b4d6-4df5-910d-accfedde8e87 : Error in creating Supplier in Tus : {\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-4980e727-b4d6-4df5-910d-accfedde8e87Error{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:445244c2-8c59-459e-9831-2b0142edee9b\",\"details\":[{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-64a41058-8acc-4e36-85e3-e33cbf1ce455 : Error in creating Supplier in Tus : {\"statusCode\":404,\"body\":{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"},\"headers\":{\"date\":\"Wed, 18 Dec 2019 14:07:48 GMT\",\"content-type\":\"application/json\",\"transfer-encoding\":\"chunked\",\"connection\":\"close\",\"server\":\"nginx/1.13.5\"},\"request\":{\"uri\":{\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"api-dev.tesco.com\",\"port\":443,\"hostname\":\"api-dev.tesco.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/tradingpartner/v3/plm/tradedunits/partner\",\"path\":\"/tradingpartner/v3/plm/tradedunits/partner\",\"href\":\"https://api-dev.tesco.com/tradingpartner/v3/plm/tradedunits/partner\"},\"method\":\"PUT\",\"headers\":{\"authorization\":\"Bearer 22dc6a06-7546-49b6-8ee1-71117391020e\",\"Content-Type\":\"application/json\",\"traceId\":\"PLM-CS-64a41058-8acc-4e36-85e3-e33cbf1ce455\",\"accept\":\"application/json\",\"content-length\":469}}}","level":"error"}
+{"message":"Error traceId:PLM-CS-64a41058-8acc-4e36-85e3-e33cbf1ce455Error{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:ba24e8f5-d506-4d4d-bcdf-219230ab4666\",\"details\":[{\"statusCode\":404,\"body\":{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"},\"headers\":{\"date\":\"Wed, 18 Dec 2019 14:07:48 GMT\",\"content-type\":\"application/json\",\"transfer-encoding\":\"chunked\",\"connection\":\"close\",\"server\":\"nginx/1.13.5\"},\"request\":{\"uri\":{\"protocol\":\"https:\",\"slashes\":true,\"auth\":null,\"host\":\"api-dev.tesco.com\",\"port\":443,\"hostname\":\"api-dev.tesco.com\",\"hash\":null,\"search\":null,\"query\":null,\"pathname\":\"/tradingpartner/v3/plm/tradedunits/partner\",\"path\":\"/tradingpartner/v3/plm/tradedunits/partner\",\"href\":\"https://api-dev.tesco.com/tradingpartner/v3/plm/tradedunits/partner\"},\"method\":\"PUT\",\"headers\":{\"authorization\":\"Bearer 22dc6a06-7546-49b6-8ee1-71117391020e\",\"Content-Type\":\"application/json\",\"traceId\":\"PLM-CS-64a41058-8acc-4e36-85e3-e33cbf1ce455\",\"accept\":\"application/json\",\"content-length\":469}}}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-45f51299-9a15-4539-bf85-f43ddf394cb9 : Error in creating Supplier in Tus : {\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-45f51299-9a15-4539-bf85-f43ddf394cb9Error{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:9a6c48f3-7196-4dd6-98e6-0099e2cca43f\",\"details\":[{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-933fe298-d07d-4ab7-ae92-0d28baad664b : Error in creating Supplier in Tus : {\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-933fe298-d07d-4ab7-ae92-0d28baad664bError{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:5cde10cf-4523-4536-b038-61be7981598d\",\"details\":[{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-ab76c7b9-1af2-4c22-945f-d7bb42e0cb5e : Error in creating Supplier in Tus : {\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-ab76c7b9-1af2-4c22-945f-d7bb42e0cb5eError{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:ea4805c5-7bf1-4c8a-bea7-4543eda283b5\",\"details\":[{\"eventType\":\"TUS\",\"payload\":{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-a6e3e4bb-5463-440c-ad54-6158cf24f3a6 : Error in creating Supplier in Tus : {\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-a6e3e4bb-5463-440c-ad54-6158cf24f3a6Error{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:95e19e0d-8179-4671-9407-f6c493f0a27b\",\"details\":[{\"eventType\":\"TUS\",\"payload\":{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"},\"statusCode\":\"404\"}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-54bf58c4-0774-47f1-a50f-7e74413a615b : Error in creating Supplier in Tus : {\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"}","level":"error"}
+{"message":"Error traceId:PLM-CS-54bf58c4-0774-47f1-a50f-7e74413a615bError{\"statusCode\":200,\"inductionType\":\"newSupplier\",\"inductionId\":\"trn:tesco:induction:uuid:c2463d1e-9764-44a6-9174-2f539b9a0cf8\",\"details\":[{\"eventType\":\"TUS\",\"payload\":{\"statusCode\":\"404\",\"code\":\"404.2.404\",\"message\":\"OCC does not exist. Please enter valid OCC.\",\"info\":\"https://developer.tesco.com/errors/404.2.404\"},\"statusCode\":\"404\"}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-7962602b-1122-4194-840d-410104b9bdd2 : Error in generating Induction Id : \"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"","level":"error"}
+{"message":"Error traceId:PLM-CS-7962602b-1122-4194-840d-410104b9bdd2Error{\"statusCode\":200,\"inductionType\":\"newEAN\",\"details\":[{\"eventType\":\"TUS\",\"payload\":\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\",\"statusCode\":500}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-e9f42888-ad46-4eaa-a0d7-f850b07a753b : Error in generating Induction Id : \"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"","level":"error"}
+{"message":"Error traceId:PLM-CS-e9f42888-ad46-4eaa-a0d7-f850b07a753bError{\"statusCode\":200,\"inductionType\":\"newEAN\",\"details\":[{\"eventType\":\"TUS\",\"payload\":\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\",\"statusCode\":500}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"PLM-CS-bc0b37eb-7ebf-4c6c-a78b-7e4d1c8ae1d0 : Error in generating Induction Id : \"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"","level":"error"}
+{"message":"Error traceId:PLM-CS-bc0b37eb-7ebf-4c6c-a78b-7e4d1c8ae1d0Error{\"statusCode\":200,\"inductionType\":\"newEAN\",\"details\":[{\"eventType\":\"TUS\",\"payload\":\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\",\"statusCode\":500}]}Objundefined","level":"error"}
+{"message":"PLM-CS-c68825ac-0b70-4687-a0de-0060d773f293 : Error in generating Induction Id : \"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\"","level":"error"}
+{"message":"Error traceId:PLM-CS-c68825ac-0b70-4687-a0de-0060d773f293Error{\"statusCode\":200,\"inductionType\":\"newEAN\",\"details\":[{\"eventType\":\"TUS\",\"payload\":\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n<head>\\n<meta charset=\\\"utf-8\\\">\\n<title>Error</title>\\n</head>\\n<body>\\n<pre>[object Object]</pre>\\n</body>\\n</html>\\n\",\"statusCode\":500}]}Objundefined","level":"error"}
+{"message":"Creating item in Uno , traceId :PLM-CS-a9f3e2b0-e42d-4dc7-a943-6096d892ff7f","level":"info"}
+{"message":"[object Object] : Error creating product in Uno : {\"error\":{\"statusCode\":500,\"message\":\"Internal Server Error\",\"errors\":[{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Buyer information not provided.\",\"details\":{\"parameters\":[],\"payload\":[{\"buyerInfo\":{\"initialBuyerUUID\":null}}]}},{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Parent information is required.\",\"details\":{\"parameters\":[],\"payload\":[{\"productIdentifiers\":{\"tpnb\":null,\"tpnc\":null}}]}}]}}","level":"error"}
+{"message":"Error traceId:PLM-CS-a9f3e2b0-e42d-4dc7-a943-6096d892ff7fError{\"statusCode\":200,\"inductionType\":\"newEAN\",\"inductionId\":\"trn:tesco:induction:uuid:6e1d3328-5acb-403f-bf1d-792c4c14f979\",\"details\":[{\"eventType\":\"TUS\",\"payload\":{\"statusCode\":500,\"message\":\"Internal Server Error\",\"errors\":[{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Buyer information not provided.\",\"details\":{\"parameters\":[],\"payload\":[{\"buyerInfo\":{\"initialBuyerUUID\":null}}]}},{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Parent information is required.\",\"details\":{\"parameters\":[],\"payload\":[{\"productIdentifiers\":{\"tpnb\":null,\"tpnc\":null}}]}}]},\"statusCode\":500}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"Creating item in Uno , traceId :PLM-CS-e9460fdf-a5f8-4f35-9827-ea45491778ad","level":"info"}
+{"message":"[object Object] : Error creating product in Uno : {\"error\":{\"statusCode\":500,\"message\":\"Internal Server Error\",\"errors\":[{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Buyer information not provided.\",\"details\":{\"parameters\":[],\"payload\":[{\"buyerInfo\":{\"initialBuyerUUID\":null}}]}},{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Parent information is required.\",\"details\":{\"parameters\":[],\"payload\":[{\"productIdentifiers\":{\"tpnb\":null,\"tpnc\":null}}]}}]}}","level":"error"}
+{"message":"Error traceId:PLM-CS-e9460fdf-a5f8-4f35-9827-ea45491778adError{\"statusCode\":200,\"inductionType\":\"newEAN\",\"inductionId\":\"trn:tesco:induction:uuid:77eadd4e-5e7a-456e-9053-05f5c1a6365c\",\"details\":[{\"eventType\":\"TUS\",\"payload\":{\"statusCode\":500,\"message\":\"Internal Server Error\",\"errors\":[{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Buyer information not provided.\",\"details\":{\"parameters\":[],\"payload\":[{\"buyerInfo\":{\"initialBuyerUUID\":null}}]}},{\"code\":\"invalidPayload\",\"message\":\"Request payload provided is incorrect. Parent information is required.\",\"details\":{\"parameters\":[],\"payload\":[{\"productIdentifiers\":{\"tpnb\":null,\"tpnc\":null}}]}}]},\"statusCode\":500}]}Objundefined","level":"error"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
+{"message":"this is priniting","level":"info"}
+{"message":"server is listening on 3000","level":"info"}
